@@ -1,0 +1,19 @@
+current directory: /Users/charles_zhang/Desktop/chenggong-zhang.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/charles_zhang/.rubies/ruby-3.1.3/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/charles_zhang/Desktop/chenggong-zhang.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230418-46057-j1dkxl sitelibdir\=./.gem.20230418-46057-j1dkxl clean
+
+current directory: /Users/charles_zhang/Desktop/chenggong-zhang.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230418-46057-j1dkxl sitelibdir\=./.gem.20230418-46057-j1dkxl
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/charles_zhang/Desktop/chenggong-zhang.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230418-46057-j1dkxl sitelibdir\=./.gem.20230418-46057-j1dkxl install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230418-46057-j1dkxl
+
+current directory: /Users/charles_zhang/Desktop/chenggong-zhang.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230418-46057-j1dkxl sitelibdir\=./.gem.20230418-46057-j1dkxl clean
